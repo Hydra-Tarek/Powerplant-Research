@@ -1,0 +1,51 @@
+﻿PVObject_=pvModule
+  Version=7.4.7
+  Flags=$0703
+
+  PVObject_Commercial=pvCommercial
+    Comment=Ja Solar
+    Flags=$0041
+    Manufacturer=JA Solar
+    Model=JAM72D42-620/LB
+    DataSource=Datasheets 2022
+    YearBeg=2022
+    Width=1.134
+    Height=2.465
+    Depth=0.035
+    Weight=34.600
+    NPieces=100
+    PriceDate=16/07/24 23:32
+  End of PVObject pvCommercial
+
+  Technol=mtSiMono
+  NCelS=72
+  NCelP=2
+  NDiode=3
+  SubModuleLayout=slTwinHalfCells
+  FrontSurface=fsNormalGlass
+  GRef=1000
+  TRef=25.0
+  PNom=620.0
+  PNomTolLow=0.00
+  PNomTolUp=5.00
+  BifacialityFactor=0.000
+  Isc=14.980
+  Voc=55.28
+  Imp=14.250
+  Vmp=43.51
+  muISC=6.89
+  RShunt=300
+  Rp_0=1200
+  Rp_Exp=5.50
+  RSerie=0.283
+  Gamma=1.295
+  muGamma=0.0000
+  VMaxIEC=1500
+  Absorb=0.90
+  ARev=3.200
+  BRev=-11998.800
+  RDiode=0.010
+  VRevDiode=-0.70
+  AirMassRef=1.500
+  SandiaAMCorr=50.000
+End of PVObject pvModule
